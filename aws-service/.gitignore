@@ -1,0 +1,26 @@
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+logs/
+target/
+.settings/
+.metadata/
+.recommenders/
+.vscode
+.classpath
+.project
+*~
+.idea
+*.iml
+*.bak
+*.beforefix
+*.jar
+*.log
+*.pid
+application*.properties
+logback-local.xml
+.DS_Store
